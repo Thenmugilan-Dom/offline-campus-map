@@ -69,7 +69,7 @@ Use your browser's developer tools to debug the map’s interactive features and
 Test the app's offline functionality by disconnecting from the internet after the initial load.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Thenmugilan License
 
 ---
 
